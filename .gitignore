@@ -1,0 +1,26 @@
+# Environment variables
+.env
+.env.*
+*.env
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+dist/
+build/
+*.egg
+.venv/
+venv/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+Thumbs.db
+Desktop.ini
+
+# MiMoCode runtime
+.mimocode/
